@@ -1,4 +1,4 @@
-package com.zhu.mall_learning;
+package com.zhu.mallLearning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

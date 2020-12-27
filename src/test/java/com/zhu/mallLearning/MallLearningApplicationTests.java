@@ -1,4 +1,4 @@
-package com.zhu.mall_learning;
+package com.zhu.mallLearning;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
